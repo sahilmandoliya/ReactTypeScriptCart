@@ -1,2 +1,2 @@
-# Shopping Cart using React and TypeScript.
+# React and TypeScript Shopping Cart
 
